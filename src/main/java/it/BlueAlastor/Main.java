@@ -1,6 +1,6 @@
 package it.BlueAlastor;
 
-import it.BlueAlastor.service.MovementMouse;
+import it.BlueAlastor.service.TestBot;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {

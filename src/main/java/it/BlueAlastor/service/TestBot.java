@@ -3,7 +3,7 @@ package it.BlueAlastor.service;
 import java.awt.*;
 import java.awt.event.InputEvent;
 
-public class MovementMouse {
+public class TestBot {
 
     public void robotTest() throws InterruptedException {
         int xCord = 200;
