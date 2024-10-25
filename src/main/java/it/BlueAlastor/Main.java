@@ -4,8 +4,8 @@ import it.BlueAlastor.service.MovementMouse;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
-        MovementMouse mouse = new MovementMouse();
+        TestBot  testBot = new TestBot();
 
-       mouse.mouseMovement();
+        testBot.robotTest();
     }
 }

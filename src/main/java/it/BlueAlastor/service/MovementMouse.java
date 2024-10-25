@@ -5,7 +5,7 @@ import java.awt.event.InputEvent;
 
 public class MovementMouse {
 
-    public void mouseMovement() throws InterruptedException {
+    public void robotTest() throws InterruptedException {
         int xCord = 200;
         int yCord = 200;
         while(true){
